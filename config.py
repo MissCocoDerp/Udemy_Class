@@ -1,0 +1,6 @@
+
+SECRET_KEY='SwbJ<6qCl#8~QQC1aI"Pez(x(K5QxH'
+SQLALCHEMY_DATABASE_URI='postgresql+pg8000://postgres:Norway66!@127.0.0.1:6969/catalog_db'
+SQLALCHEMY_TRACK_MODIFICATIONS=False
+
+
